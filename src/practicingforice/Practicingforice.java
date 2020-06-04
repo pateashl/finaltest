@@ -17,6 +17,7 @@ public class Practicingforice {
     public static void main(String[] args) {
         System.out.println("HIIIIII");
         System.out.println("I got this");
+        System.out.println("final push test");
     }
     
 }
